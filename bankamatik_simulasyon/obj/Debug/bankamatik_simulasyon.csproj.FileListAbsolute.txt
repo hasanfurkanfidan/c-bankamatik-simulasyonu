@@ -1,0 +1,12 @@
+C:\Users\Furkan\source\repos\bankamatik_simulasyon\bankamatik_simulasyon\bin\Debug\bankamatik_simulasyon.exe.config
+C:\Users\Furkan\source\repos\bankamatik_simulasyon\bankamatik_simulasyon\bin\Debug\bankamatik_simulasyon.exe
+C:\Users\Furkan\source\repos\bankamatik_simulasyon\bankamatik_simulasyon\bin\Debug\bankamatik_simulasyon.pdb
+C:\Users\Furkan\source\repos\bankamatik_simulasyon\bankamatik_simulasyon\obj\Debug\bankamatik_simulasyon.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\bankamatik_simulasyon\bankamatik_simulasyon\obj\Debug\bankamatik_simulasyon.Form1.resources
+C:\Users\Furkan\source\repos\bankamatik_simulasyon\bankamatik_simulasyon\obj\Debug\bankamatik_simulasyon.Form2.resources
+C:\Users\Furkan\source\repos\bankamatik_simulasyon\bankamatik_simulasyon\obj\Debug\bankamatik_simulasyon.Properties.Resources.resources
+C:\Users\Furkan\source\repos\bankamatik_simulasyon\bankamatik_simulasyon\obj\Debug\bankamatik_simulasyon.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\bankamatik_simulasyon\bankamatik_simulasyon\obj\Debug\bankamatik_simulasyon.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\bankamatik_simulasyon\bankamatik_simulasyon\obj\Debug\bankamatik_simulasyon.exe
+C:\Users\Furkan\source\repos\bankamatik_simulasyon\bankamatik_simulasyon\obj\Debug\bankamatik_simulasyon.pdb
+C:\Users\Furkan\source\repos\bankamatik_simulasyon\bankamatik_simulasyon\obj\Debug\bankamatik_simulasyon.Form3.resources
